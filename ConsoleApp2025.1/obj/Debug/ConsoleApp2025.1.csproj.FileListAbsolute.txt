@@ -1,0 +1,7 @@
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\bin\Debug\ConsoleApp2025.1.exe.config
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\bin\Debug\ConsoleApp2025.1.exe
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\bin\Debug\ConsoleApp2025.1.pdb
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\obj\Debug\ConsoleApp2025.1.csproj.AssemblyReference.cache
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\obj\Debug\ConsoleApp2025.1.csproj.CoreCompileInputs.cache
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\obj\Debug\ConsoleApp2025.1.exe
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp2025.1\obj\Debug\ConsoleApp2025.1.pdb
