@@ -1,0 +1,14 @@
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\Николай Охлоповский\OneDrive\Рабочий стол\С#\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\kab-35-17\Desktop\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\kab-35-17\Desktop\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\kab-35-17\Desktop\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\kab-35-17\Desktop\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\kab-35-17\Desktop\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
