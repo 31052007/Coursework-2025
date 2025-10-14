@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp6
 {
-    class Group
+    public class Group
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -61,3 +61,4 @@ namespace ConsoleApp6
         }
     }
 }
+
