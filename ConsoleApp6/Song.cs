@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp6
 {
-    class Song
+    public class Song
     {
         public int Id { get; set; }
         public string Title { get; set; }
@@ -58,3 +58,4 @@ namespace ConsoleApp6
         }
     }
 }
+
