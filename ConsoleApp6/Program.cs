@@ -19,7 +19,7 @@ namespace ConsoleApp6
         //static string groupFile = @"C:\Users\kab-35-16\Desktop\ConsoleApp6\txt\Group.txt";
         //static string songFile = @"C:\Users\kab-35-16\ConsoleApp6\txt\Song.txt";
         //static string tourFile = @"C:\Users\kab-35-16\Desktop\ConsoleApp6\txt\Tour.txt";
-        //static void Main(string[] args)
+        static void Main(string[] args)
         {
             LoadData();
 
@@ -324,3 +324,4 @@ namespace ConsoleApp6
 
     }
 }
+
