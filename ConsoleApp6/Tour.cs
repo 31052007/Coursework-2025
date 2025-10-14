@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp6
 {
-    class Tour
+    public class Tour
     {
         public int Id { get; set; }
         public string City { get; set; }
@@ -60,3 +60,4 @@ namespace ConsoleApp6
         }
     }
 }
+
